@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\GestionReservas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{187A0861-C2D0-4EF6-B31E-9BB580D019DF}|GestionReservas\\GestionReservas.csproj|c:\\users\\usuario\\source\\repos\\gestionreservas\\gestionreservas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{187A0861-C2D0-4EF6-B31E-9BB580D019DF}|GestionReservas\\GestionReservas.csproj|solutionrelative:gestionreservas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187A0861-C2D0-4EF6-B31E-9BB580D019DF}|GestionReservas\\GestionReservas.csproj|c:\\users\\usuario\\source\\repos\\gestionreservas\\gestionreservas\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187A0861-C2D0-4EF6-B31E-9BB580D019DF}|GestionReservas\\GestionReservas.csproj|solutionrelative:gestionreservas\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187A0861-C2D0-4EF6-B31E-9BB580D019DF}|GestionReservas\\GestionReservas.csproj|c:\\users\\usuario\\source\\repos\\gestionreservas\\gestionreservas\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187A0861-C2D0-4EF6-B31E-9BB580D019DF}|GestionReservas\\GestionReservas.csproj|solutionrelative:gestionreservas\\reserva.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187A0861-C2D0-4EF6-B31E-9BB580D019DF}|GestionReservas\\GestionReservas.csproj|c:\\users\\usuario\\source\\repos\\gestionreservas\\gestionreservas\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187A0861-C2D0-4EF6-B31E-9BB580D019DF}|GestionReservas\\GestionReservas.csproj|solutionrelative:gestionreservas\\controllers\\reservacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187A0861-C2D0-4EF6-B31E-9BB580D019DF}|GestionReservas\\GestionReservas.csproj|c:\\users\\usuario\\source\\repos\\gestionreservas\\gestionreservas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187A0861-C2D0-4EF6-B31E-9BB580D019DF}|GestionReservas\\GestionReservas.csproj|solutionrelative:gestionreservas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{187A0861-C2D0-4EF6-B31E-9BB580D019DF}|GestionReservas\\GestionReservas.csproj|c:\\users\\usuario\\source\\repos\\gestionreservas\\gestionreservas\\reservadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{187A0861-C2D0-4EF6-B31E-9BB580D019DF}|GestionReservas\\GestionReservas.csproj|solutionrelative:gestionreservas\\reservadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\GestionReservas\\GestionReservas\\appsettings.json",
+              "RelativeDocumentMoniker": "GestionReservas\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\GestionReservas\\GestionReservas\\appsettings.json",
+              "RelativeToolTip": "GestionReservas\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T22:25:34.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReservaDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\GestionReservas\\GestionReservas\\ReservaDBContext.cs",
+              "RelativeDocumentMoniker": "GestionReservas\\ReservaDBContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\GestionReservas\\GestionReservas\\ReservaDBContext.cs",
+              "RelativeToolTip": "GestionReservas\\ReservaDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T22:13:03.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\GestionReservas\\GestionReservas\\Program.cs",
+              "RelativeDocumentMoniker": "GestionReservas\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\GestionReservas\\GestionReservas\\Program.cs",
+              "RelativeToolTip": "GestionReservas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:26:42.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservaController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\GestionReservas\\GestionReservas\\Controllers\\ReservaController.cs",
+              "RelativeDocumentMoniker": "GestionReservas\\Controllers\\ReservaController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\GestionReservas\\GestionReservas\\Controllers\\ReservaController.cs",
+              "RelativeToolTip": "GestionReservas\\Controllers\\ReservaController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T21:24:35.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reserva.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\GestionReservas\\GestionReservas\\Reserva.cs",
+              "RelativeDocumentMoniker": "GestionReservas\\Reserva.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\GestionReservas\\GestionReservas\\Reserva.cs",
+              "RelativeToolTip": "GestionReservas\\Reserva.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:20:23.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\GestionReservas\\GestionReservas\\Cliente.cs",
+              "RelativeDocumentMoniker": "GestionReservas\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\GestionReservas\\GestionReservas\\Cliente.cs",
+              "RelativeToolTip": "GestionReservas\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T20:20:45.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
