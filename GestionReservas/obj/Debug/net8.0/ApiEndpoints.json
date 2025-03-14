@@ -1,0 +1,38 @@
+[
+  {
+    "ContainingType": "GestionReservas.Controllers.ReservasController",
+    "Method": "CrearReserva",
+    "RelativePath": "api/Reservas/reservar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nuevaReserva",
+        "Type": "GestionReservas.Reserva",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionReservas.Controllers.ReservasController",
+    "Method": "GetReservas",
+    "RelativePath": "api/Reservas/reservas",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GestionReservas.Controllers.ReservasController",
+    "Method": "GetServicios",
+    "RelativePath": "api/Reservas/servicios",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

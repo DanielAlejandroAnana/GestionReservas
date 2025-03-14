@@ -9,8 +9,5 @@ namespace GestionReservas
         [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
         public string Nombre { get; set; } = string.Empty;
-
-        [ForeignKey("ClienteId")]
-        public Cliente ClienteRelacionado { get; set; } = default!;
     }
 }

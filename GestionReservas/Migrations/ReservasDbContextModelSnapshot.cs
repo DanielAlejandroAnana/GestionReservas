@@ -30,16 +30,11 @@ namespace GestionReservas.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<int>("ClienteId")
-                        .HasColumnType("int");
-
                     b.Property<string>("Nombre")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("ClienteId");
 
                     b.ToTable("Clientes");
                 });
@@ -68,17 +63,6 @@ namespace GestionReservas.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Reservas");
-                });
-
-            modelBuilder.Entity("GestionReservas.Cliente", b =>
-                {
-                    b.HasOne("GestionReservas.Cliente", "ClienteRelacionado")
-                        .WithMany()
-                        .HasForeignKey("ClienteId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("ClienteRelacionado");
                 });
 #pragma warning restore 612, 618
         }

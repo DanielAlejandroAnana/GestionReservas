@@ -1,11 +1,13 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Cors;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Net.NetworkInformation;
 
 namespace GestionReservas.Controllers
 {
     [ApiController]
-    [Route("api/[reserva]")]
+    [EnableCors("AllowFrontend")]
+    [Route("api/[controller]")]
     public class ReservasController : ControllerBase
     {
         private readonly ReservasDbContext _context;
@@ -25,7 +27,7 @@ namespace GestionReservas.Controllers
         [HttpGet("reservas")]
         public IActionResult GetReservas()
         {
-            var reservas = _context.Reservas.Include(r => r.ClienteId).ToList();
+            var reservas = _context.Reservas.ToList();
             return Ok(reservas);
         }
 
